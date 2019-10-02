@@ -1,0 +1,181 @@
+{
+    "date": "2018-03-19",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-mars-2018_759076",
+    "members": [
+        "JR (président)",
+        "Lorenzo Benedetti",
+        "Florent Bernard",
+        "Cyprien Iov",
+        "Barbara Israël",
+        "Salam Jawad",
+        "Ina Mihalache",
+        "Margaux Missika",
+        "Axelle Tessandier"
+    ],
+    "creation_helps": [
+        {
+            "title": "L'effondrement",
+            "quantity": 1,
+            "length": 15,
+            "type": "court métrage de fiction",
+            "talent": "Les Parasites",
+            "beneficiary": "Synchrone Medias",
+            "amount": 30000
+        },
+        {
+            "title": "JE T'AIM3",
+            "quantity": 3,
+            "length": 18,
+            "type": "courts métrages de fiction",
+            "talent": "VALD",
+            "beneficiary": "A TRAVERS LE MIROIR",
+            "amount": 30000
+        },
+        {
+            "title": "Eleven Days",
+            "quantity": 22,
+            "length": 7,
+            "type": "Vlog",
+            "talent": "PV Nova",
+            "beneficiary": "La Crémerie",
+            "amount": 14000
+        },
+        {
+            "title": "Miss Book - Passe ton bac",
+            "quantity": 8,
+            "length": 5,
+            "type": "Chronique",
+            "talent": "Nawal STOULI",
+            "beneficiary": "Nawal STOULI",
+            "amount": 17000
+        },
+        {
+            "title": "Sanpo",
+            "quantity": 10,
+            "length": 5,
+            "type": "Expérience musicale",
+            "talent": "Sourdoreille Collectif",
+            "beneficiary": "Sourdoreille Production",
+            "amount": 17000
+        },
+        {
+            "title": "L'Anglais expliqué par un Américain",
+            "quantity": 10,
+            "length": 5,
+            "type": "Educatif",
+            "talent": "Sebastian Marx",
+            "beneficiary": "Corpito",
+            "amount": 10000
+        },
+        {
+            "title": "Lombard Martial",
+            "quantity": 5,
+            "length": 5,
+            "type": "Animation fiction",
+            "talent": "Martial LOMBARD",
+            "beneficiary": "Martial LOMBARD",
+            "amount": 5000
+        },
+        {
+            "title": "Andrew Bennett",
+            "quantity": 10,
+            "length": 8,
+            "type": "Série de fiction",
+            "talent": "SUPERFLAME",
+            "beneficiary": "SoundLife Production",
+            "amount": 25000
+        },
+        {
+            "title": "WTFAKE, WTFAQ - Aude contre les Fake News",
+            "quantity": 10,
+            "length": 7,
+            "type": "Podcast \"Factchecking\"",
+            "talent": "Aude Favre",
+            "beneficiary": "Zebra Production",
+            "amount": 10000
+        },
+        {
+            "title": "Appelle-Moi Poésie",
+            "quantity": 20,
+            "length": 3,
+            "type": "Chronique",
+            "talent": "Appelle-Moi Poésie",
+            "beneficiary": "Appelle-Moi Poésie",
+            "amount": 10000
+        },
+        {
+            "title": "Indécis : \"A la rencontre de la politique\"",
+            "quantity": 20,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Indécis - Chaine d'interview politique",
+            "beneficiary": "Une grosse boîte américaine",
+            "amount": 15000
+        },
+        {
+            "title": "Poètes",
+            "quantity": 6,
+            "length": 22,
+            "type": "Série de fiction",
+            "talent": "Tommy-Lee BAÏK",
+            "beneficiary": "Tommy-Lee BAÏK",
+            "amount": 30000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Balade Mentale, petit cabinet de curiosités modernes",
+            "quantity": 10,
+            "length": 5,
+            "type": "Educatif",
+            "talent": "Balade Mentale",
+            "beneficiary": "EEMC",
+            "amount": 15000
+        },
+        {
+            "title": "Dans ton corps",
+            "quantity": 20,
+            "length": 5,
+            "type": "Educatif",
+            "talent": "Julien Menielle",
+            "beneficiary": "TALENT WEB",
+            "amount": 50000
+        },
+        {
+            "title": "Stupid Economics",
+            "quantity": 12,
+            "length": 8,
+            "type": "Documentaire",
+            "talent": "Stupid Economics",
+            "beneficiary": "Accromédias SAS",
+            "amount": 36000
+        },
+        {
+            "title": "Marius",
+            "quantity": 8,
+            "length": 6,
+            "type": "Série de fiction",
+            "talent": "ET BIM",
+            "beneficiary": "Jeff et Octave",
+            "amount": 30000
+        },
+        {
+            "title": "Partager c'est Sympa",
+            "quantity": 25,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "Partager c'est Sympa",
+            "beneficiary": "Partager c'est Sympa",
+            "amount": 25000
+        },
+        {
+            "title": "MAUD BETTINA-MARIE / PORTRAITS DE FAMILLES",
+            "quantity": 9,
+            "length": 5,
+            "type": "Série de fiction",
+            "talent": "MAUD BETTINA-MARIE",
+            "beneficiary": "KHOJANDI PRODUCTIONS",
+            "amount": 31000
+        }
+    ]
+}
