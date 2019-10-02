@@ -1,0 +1,196 @@
+{
+    "date": "2018-12-13",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-13-decembre-2018_939596",
+    "members": [
+        "Sophie Garric",
+        "Margaux Missica",
+        "Salam Jawad",
+        "Barbara Israël",
+        "Ina Mihalache",
+        "Lorenzo Benedetti"
+    ],
+    "creation_helps": [
+        {
+            "title": "Lettre ouverte à l’infini",
+            "quantity": 4,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Nebuleuses et Cacao",
+            "beneficiary": "Corentin Kimenau",
+            "amount": 30000
+        },
+        {
+            "title": "La fusée géante N-1 : les soviétiques à la conquête de la lune",
+            "quantity": 1,
+            "length": 60,
+            "type": "Documentaire",
+            "talent": "Techniques Spatiales",
+            "beneficiary": "Stratespace",
+            "amount": 12500
+        },
+        {
+            "title": "La flou vie de Théophile Gaussien",
+            "quantity": 1,
+            "length": 8,
+            "type": "Docu-Fiction",
+            "talent": "Jérémy Strohm",
+            "beneficiary": "Centurions",
+            "amount": 6000
+        },
+        {
+            "title": "Amor Fati",
+            "quantity": 4,
+            "length": 25,
+            "type": "Documentaire",
+            "talent": "Dani Caligula",
+            "beneficiary": "Cool Films",
+            "amount": 20000
+        },
+        {
+            "title": "Comme prévu",
+            "quantity": 1,
+            "length": 20,
+            "type": "Fiction",
+            "talent": "Tommy-Lee Baïk",
+            "beneficiary": "Patmol Studio",
+            "amount": 2000
+        },
+        {
+            "title": "Oldyssey ",
+            "quantity": 12,
+            "length": 5,
+            "type": "Documentaire",
+            "talent": "Oldyssey ",
+            "beneficiary": "Clément Boxebeld",
+            "amount": 15000
+        },
+        {
+            "title": "Normal",
+            "quantity": 21,
+            "length": 3,
+            "type": "Fiction",
+            "talent": "MalcolmToTheWorld",
+            "beneficiary": "Yah Productions",
+            "amount": 15000
+        },
+        {
+            "title": "Bot or Not",
+            "quantity": 8,
+            "length": 8,
+            "type": "Documentaire",
+            "talent": "String Theory",
+            "beneficiary": "String Theory",
+            "amount": 15000
+        },
+        {
+            "title": "Enzo champion du monde",
+            "quantity": 11,
+            "length": 3,
+            "type": "Docu-Fiction",
+            "talent": "Hafid F. Benamar et So Foot",
+            "beneficiary": "AllSo",
+            "amount": 10000
+        },
+        {
+            "title": "Unboxing",
+            "quantity": 1,
+            "length": 20,
+            "type": "Fiction",
+            "talent": "McFly et Carlito",
+            "beneficiary": "Talent Web",
+            "amount": 30000
+        },
+        {
+            "title": "On a testé pour nous",
+            "quantity": 20,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "Florence Fauquet et Armel Hemme",
+            "beneficiary": "Vents Contraires",
+            "amount": 5000
+        },
+        {
+            "title": "Question Youtubesque",
+            "quantity": 10,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Poisson Fécond",
+            "beneficiary": "Khundar",
+            "amount": 10000
+        },
+        {
+            "title": "La vérité sur (Rose Carpet)",
+            "quantity": 4,
+            "length": 3,
+            "type": "Fiction",
+            "talent": "Rose Carpet",
+            "beneficiary": "GM6",
+            "amount": 15000
+        },
+        {
+            "title": "Bitme",
+            "quantity": 1,
+            "length": 40,
+            "type": "Fiction",
+            "talent": "Louis Chamard",
+            "beneficiary": "Louis Chamard",
+            "amount": 5000
+        },
+        {
+            "title": "Eleonore Costes",
+            "quantity": 2,
+            "length": 10,
+            "type": "Fiction",
+            "talent": "Eleonore Costes",
+            "beneficiary": "La Dame de Cœur",
+            "amount": 30000
+        },
+        {
+            "title": "Professeur Feuillage",
+            "quantity": 6,
+            "length": 6,
+            "type": "Fiction",
+            "talent": "Professeur Feuillage",
+            "beneficiary": "Imagine 2050",
+            "amount": 10000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Eté 3",
+            "quantity": 75,
+            "length": 1,
+            "type": "Fiction",
+            "talent": "Bigger Than Fiction",
+            "beneficiary": "Bigger Than Fiction",
+            "amount": 30000
+        },
+        {
+            "title": "Balade Mentale – Cabinet de curiosités modernes",
+            "quantity": 14,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Balade Mentale",
+            "beneficiary": "EEMC",
+            "amount": 35000
+        },
+        {
+            "title": "J-Terre",
+            "quantity": 36,
+            "length": 60,
+            "type": "Documentaire",
+            "talent": "Permavenir",
+            "beneficiary": "Sans Montage Ni Coupure",
+            "amount": 50000
+        },
+        {
+            "title": "Le monde de Jasmin",
+            "quantity": 40,
+            "length": 2,
+            "type": "Animation",
+            "talent": "Simon [Officiel]",
+            "beneficiary": "GO-N Productions",
+            "amount": 50000
+        }
+    ]
+}
