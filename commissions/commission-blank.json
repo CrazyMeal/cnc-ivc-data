@@ -1,0 +1,28 @@
+{
+    "date": "YYYY-MM-DD",
+    "source": "",
+    "members": [
+    ],
+    "creation_helps": [
+        {
+            "title": "",
+            "quantity": 0,
+            "length": 0,
+            "type": "",
+            "talent": "",
+            "beneficiary": "",
+            "amount": 0
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "",
+            "quantity": 0,
+            "length": 0,
+            "type": "",
+            "talent": "",
+            "beneficiary": "",
+            "amount": 0
+        }
+    ]
+}

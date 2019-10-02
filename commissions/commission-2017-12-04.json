@@ -1,0 +1,263 @@
+{
+    "date": "2017-12-04",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-4-decembre-2017_759084",
+    "members": [
+        "JR (président)",
+        "Lorenzo Benedetti",
+        "Guillaume Desjardins (suppléant)",
+        "Maïmouna Doucouré",
+        "Barbara Israël",
+        "Salam Jawad",
+        "Julien Josselin (suppléant)",
+        "Ina Mihalache",
+        "Margaux Missika",
+        "Axelle Tessandier"
+    ],
+    "creation_helps": [
+        {
+            "title": "Virago",
+            "quantity": 12,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Aude GOGNY-GOUBERT",
+            "beneficiary": "Aude GOGNY-GOUBERT",
+            "amount": 30000
+        },
+        {
+            "title": "Biopic sur la vie de Beethoven",
+            "quantity": 1,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Avner",
+            "beneficiary": "Cool Films",
+            "amount": 30000
+        },
+        {
+            "title": "Les Idées Reçues de Max Bird",
+            "quantity": 12,
+            "length": 5,
+            "type": "unknown",
+            "talent": "Max Bird",
+            "beneficiary": "Da Prod",
+            "amount": 30000
+        },
+        {
+            "title": "Le Règlement",
+            "quantity": 30,
+            "length": 10,
+            "type": "unknown",
+            "talent": "Le Règlement",
+            "beneficiary": "Maxime BRAUD",
+            "amount": 24000
+        },
+        {
+            "title": "L'âge de Pierre",
+            "quantity": 1,
+            "length": 12,
+            "type": "unknown",
+            "talent": "Davy MOURIER",
+            "beneficiary": "Davy MOURIER",
+            "amount": 15000
+        },
+        {
+            "title": "Professeur Feuillage",
+            "quantity": 10,
+            "length": 5,
+            "type": "unknown",
+            "talent": "Mathieu Duméry et Lénie Cherino",
+            "beneficiary": "Mathieu Duméry",
+            "amount": 15000
+        },
+        {
+            "title": "Le monde au détail",
+            "quantity": 3,
+            "length": 13,
+            "type": "unknown",
+            "talent": "Manon Bril",
+            "beneficiary": "Lapilazuli Films",
+            "amount": 15000
+        },
+        {
+            "title": "Encourager la Créativité",
+            "quantity": 20,
+            "length": 10,
+            "type": "unknown",
+            "talent": "Olivier Schmitt",
+            "beneficiary": "Olivier Schmitt",
+            "amount": 15000
+        },
+        {
+            "title": "Mister Geopolitix",
+            "quantity": 16,
+            "length": 5,
+            "type": "unknown",
+            "talent": "Gildas Leprince",
+            "beneficiary": "Mister Geopolitix",
+            "amount": 12000
+        },
+        {
+            "title": "Lunaire",
+            "quantity": 1,
+            "length": 15,
+            "type": "unknown",
+            "talent": "Cyprien",
+            "beneficiary": "Périple",
+            "amount": 10000
+        },
+        {
+            "title": "La pièce (titre temporaire)",
+            "quantity": 7,
+            "length": 5,
+            "type": "unknown",
+            "talent": "e-penser",
+            "beneficiary": "CAMROD SAS",
+            "amount": 10000
+        },
+        {
+            "title": "J'aime Mon Job",
+            "quantity": 8,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Djiby BADIANE",
+            "beneficiary": "Djiby BADIANE",
+            "amount": 10000
+        },
+        {
+            "title": "Pitch (Saison 6 )",
+            "quantity": 10,
+            "length": 7,
+            "type": "unknown",
+            "talent": "Ockam Razor",
+            "beneficiary": "Martial LOMBARD",
+            "amount": 4500
+        },
+        {
+            "title": "Fleur2Sel",
+            "quantity": 20,
+            "length": 6,
+            "type": "unknown",
+            "talent": "Thomas & Rémi d'Undropdanslamare",
+            "beneficiary": "Rémi ABIDA",
+            "amount": 4000
+        },
+        {
+            "title": "Dans Les Films",
+            "quantity": 4,
+            "length": 2,
+            "type": "unknown",
+            "talent": "Jérémy Strohm",
+            "beneficiary": "Centurions",
+            "amount": 2000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "L'Antisèche",
+            "quantity": 97,
+            "length": 7,
+            "type": "unknown",
+            "talent": "Cyrus North",
+            "beneficiary": "YOUNITED",
+            "amount": 50000
+        },
+        {
+            "title": "NEXUS VI",
+            "quantity": 6,
+            "length": 10,
+            "type": "unknown",
+            "talent": "NEXUS VI",
+            "beneficiary": "FENSCH TOAST",
+            "amount": 50000
+        },
+        {
+            "title": "La Gastro-Physique d'Alex",
+            "quantity": 5,
+            "length": 15,
+            "type": "unknown",
+            "talent": "AlexFrenchGuyCooking",
+            "beneficiary": "Bonne Pioche Télévision",
+            "amount": 45000
+        },
+        {
+            "title": "Julien Pestel",
+            "quantity": 8,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Julien Pestel",
+            "beneficiary": "Wattson",
+            "amount": 40000
+        },
+        {
+            "title": "Les Hauts-Parleurs",
+            "quantity": 50,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Les Hauts-Parleurs",
+            "beneficiary": "FABLABCHANNEL",
+            "amount": 40000
+        },
+        {
+            "title": "Le Fossoyeur de Films - Final",
+            "quantity": 5,
+            "length": 26,
+            "type": "unknown",
+            "talent": "François Theurel - Le Fossoyeur de Films",
+            "beneficiary": "PANDORA",
+            "amount": 30000
+        },
+        {
+            "title": "Akim Omiri",
+            "quantity": 6,
+            "length": 6,
+            "type": "unknown",
+            "talent": "Akim Omiri",
+            "beneficiary": "TALENT WEB",
+            "amount": 30000
+        },
+        {
+            "title": "Rap Fighter Cup",
+            "quantity": 7,
+            "length": 4,
+            "type": "unknown",
+            "talent": "Malec",
+            "beneficiary": "Bigger Than Fiction",
+            "amount": 30000
+        },
+        {
+            "title": "String Theory",
+            "quantity": 28,
+            "length": 8,
+            "type": "unknown",
+            "talent": "String Theory",
+            "beneficiary": "String Theory",
+            "amount": 25000
+        },
+        {
+            "title": "Linguisticae",
+            "quantity": 22,
+            "length": 10,
+            "type": "unknown",
+            "talent": "Romain Filstroff - Linguisticae",
+            "beneficiary": "Nerd Entertainment System",
+            "amount": 23500
+        },
+        {
+            "title": "Amaury et Quentin",
+            "quantity": 12,
+            "length": 3,
+            "type": "unknown",
+            "talent": "Amaury et Quentin",
+            "beneficiary": "Wink Studio / Golden Moustache",
+            "amount": 15000
+        },
+        {
+            "title": "La Tronche en Biais",
+            "quantity": 6,
+            "length": 20,
+            "type": "unknown",
+            "talent": "La Tronche en Biais",
+            "beneficiary": "ASTEC",
+            "amount": 6000
+        }
+    ]
+}

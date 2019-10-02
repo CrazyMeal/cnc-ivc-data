@@ -1,0 +1,196 @@
+{
+    "date": "2019-06-18",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-18-juin-2019_1045254",
+    "members": [
+        "Lorenzo BENEDETTI",
+        "Amélie COISPEL",
+        "Salam JAWAD (présidente)",
+        "Margaux MISSIKA",
+        "Fif TOBOSSI",
+        "Lawrence VALIN"
+    ],
+    "creation_helps": [
+        {
+            "title": "\"Halfway\" Mini-série en 3 épisodes",
+            "quantity": 3,
+            "length": 10,
+            "type": "fiction",
+            "talent": "Florent DORIN",
+            "beneficiary": "Florent DORIN",
+            "amount": 10000
+        },
+        {
+            "title": "DATA SCIENCE VS FAKE - SAISON 2",
+            "quantity": 10,
+            "length": 2,
+            "type": "Documentaire",
+            "talent": "Pascal Goblot",
+            "beneficiary": "ESCALENTA",
+            "amount": 20000
+        },
+        {
+            "title": "Nexus VI - Episodes 7 / 8 / 9",
+            "quantity": 3,
+            "length": 26,
+            "type": "Docu-Fiction",
+            "talent": "Cyril CHAGOT",
+            "beneficiary": "FENSCH TOAST",
+            "amount": 20000
+        },
+        {
+            "title": "L'histoire animée",
+            "quantity": 12,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "Manon Bril (Manon Champier)",
+            "beneficiary": "Manon Champier",
+            "amount": 30000
+        },
+        {
+            "title": "MOM",
+            "quantity": 1,
+            "length": 8,
+            "type": "Animation / VR / 3D",
+            "talent": "Kajika AKI FERRAZZINI",
+            "beneficiary": "Kajika AKI FERRAZZINI",
+            "amount": 3000
+        },
+        {
+            "title": "COPAINS A LA VIE A LA MORT (Golden Moustache)",
+            "quantity": 10,
+            "length": 1,
+            "type": "Fiction",
+            "talent": "Golden Moustache",
+            "beneficiary": "GM6",
+            "amount": 14000
+        },
+        {
+            "title": "Underscore_",
+            "quantity": 12,
+            "length": 25,
+            "type": "Documentaire",
+            "talent": "Alt236",
+            "beneficiary": "Image Mouvement",
+            "amount": 20000
+        },
+        {
+            "title": "Lâcher Prise",
+            "quantity": 3,
+            "length": 15,
+            "type": "Documentaire",
+            "talent": "SolangeTeParle",
+            "beneficiary": "Next Originals",
+            "amount": 15000
+        },
+        {
+            "title": "Back to Africa - Les nouveaux aventuriers",
+            "quantity": 10,
+            "length": 8,
+            "type": "Documentaire",
+            "talent": "Kadiatou TRAORE",
+            "beneficiary": "Kadiatou TRAORE",
+            "amount": 27000
+        },
+        {
+            "title": "La Boite à Q",
+            "quantity": 7,
+            "length": 5,
+            "type": "Documentaire",
+            "talent": "Queen Camille",
+            "beneficiary": "ALJ Agency",
+            "amount": 20000
+        },
+        {
+            "title": "Je suis ton père",
+            "quantity": 1,
+            "length": 20,
+            "type": "Fiction",
+            "talent": "Justine Le Pottier",
+            "beneficiary": "Stupefy",
+            "amount": 20000
+        },
+        {
+            "title": "CVN",
+            "quantity": 1,
+            "length": 45,
+            "type": "Fiction",
+            "talent": "Alexandre Pierrin",
+            "beneficiary": "La Générale de Production",
+            "amount": 28000
+        },
+        {
+            "title": "GODWIN",
+            "quantity": 8,
+            "length": 3,
+            "type": "Fiction",
+            "talent": "Bouchra OUIKOU",
+            "beneficiary": "Bouchra OUIKOU",
+            "amount": 20000
+        },
+        {
+            "title": "Scénique ta pièce",
+            "quantity": 10,
+            "length": 8,
+            "type": "Docu-Fiction",
+            "talent": "Charlotte ISSALY",
+            "beneficiary": "Charlotte ISSALY",
+            "amount": 2000
+        },
+        {
+            "title": "Pour retrouver la chaleur de tes bras",
+            "quantity": 9,
+            "length": 5,
+            "type": "Fiction",
+            "talent": "David Kajman",
+            "beneficiary": "La Verticale",
+            "amount": 10000
+        },
+        {
+            "title": "Là où s'arrêtent les mots",
+            "quantity": 20,
+            "length": 10,
+            "type": "Docu-Fiction",
+            "talent": "Avner PERES",
+            "beneficiary": "cool film",
+            "amount": 25000
+        },
+        {
+            "title": "EMY LTR - COURTMETRAGES",
+            "quantity": 10,
+            "length": 12,
+            "type": "Fiction",
+            "talent": "EMY LTR",
+            "beneficiary": "STUDIO71",
+            "amount": 25000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Scientifiction",
+            "quantity": 4,
+            "length": 20,
+            "type": "Documentaire",
+            "talent": "The Sense of WOnder",
+            "beneficiary": "String Theory",
+            "amount": 45000
+        },
+        {
+            "title": "Eleonore Costes",
+            "quantity": 7,
+            "length": 7,
+            "type": "Fiction",
+            "talent": "Eleonore Costes",
+            "beneficiary": "Portrait Robot",
+            "amount": 35000
+        },
+        {
+            "title": "Max Bird",
+            "quantity": 20,
+            "length": 4,
+            "type": "Documentaire",
+            "talent": "Max Bird",
+            "beneficiary": "Mia Productions",
+            "amount": 35000
+        }
+    ]
+}
