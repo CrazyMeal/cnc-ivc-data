@@ -1,0 +1,206 @@
+{
+    "date": "2018-10-19",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-octobre-2018_900051",
+    "members": [
+        "JR",
+        "Cyprien Iov",
+        "Lorenzo Benedetti",
+        "Florent Bernard",
+        "Barbara Israël",
+        "Salam Jawad",
+        "Ina Mihalache"
+    ],
+    "creation_helps": [
+        {
+            "title": "T#TTOO",
+            "quantity": 30,
+            "length": 2,
+            "type": "Documentaire",
+            "talent": "Lisa Miquet",
+            "beneficiary": "Bigger Than Fiction",
+            "amount": 30000
+        },
+        {
+            "title": "AXOLOT EXOPLANETE",
+            "quantity": 1,
+            "length": 26,
+            "type": "Documentaire",
+            "talent": "Axolot",
+            "beneficiary": "IMAGE MOUVEMENT",
+            "amount": 30000
+        },
+        {
+            "title": "Game Spectrum",
+            "quantity": 12,
+            "length": 20,
+            "type": "Documentaire",
+            "talent": "Thomas Versaveau",
+            "beneficiary": "Thomas Versaveau",
+            "amount": 6000
+        },
+        {
+            "title": "Palestiniennes",
+            "quantity": 10,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Mariette Auvray",
+            "beneficiary": "Dryades Films",
+            "amount": 10000
+        },
+        {
+            "title": "Le Vortex",
+            "quantity": 24,
+            "length": 10,
+            "type": "Docu-fiction",
+            "talent": "Le Vortex",
+            "beneficiary": "Nerd Entertainment System",
+            "amount": 15000
+        },
+        {
+            "title": "Retronews Youtubeurs",
+            "quantity": 25,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "Patrick Baud et AudeGogny-Goubert",
+            "beneficiary": "La Générale de Production",
+            "amount": 25000
+        },
+        {
+            "title": "BUREAU DES PLAINTES FILMS D’HORREUR",
+            "quantity": 1,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Golden Moustache",
+            "beneficiary": "GM6",
+            "amount": 11400
+        },
+        {
+            "title": "Vlog de la COP24",
+            "quantity": 5,
+            "length": 6,
+            "type": "VLOG",
+            "talent": "Partager C’est Sympa",
+            "beneficiary": "Partager C’est Sympa",
+            "amount": 18000
+        },
+        {
+            "title": "Ritournelle (titre provisoire)",
+            "quantity": 1,
+            "length": 5,
+            "type": "Fiction animation",
+            "talent": "Alexandre Dubosc",
+            "beneficiary": "Alexandre Dubosc",
+            "amount": 13500
+        },
+        {
+            "title": "Fif Stories – Saison 2",
+            "quantity": 8,
+            "length": 52,
+            "type": "Documentaire",
+            "talent": "Fif Tobossi",
+            "beneficiary": "696 Storyfilms",
+            "amount": 30000
+        },
+        {
+            "title": "Naître et être accueilli",
+            "quantity": 28,
+            "length": 5,
+            "type": "Documentaire",
+            "talent": "Sonia Krief",
+            "beneficiary": "AM FILMS",
+            "amount": 15000
+        },
+        {
+            "title": "Une séance presque parfaite",
+            "quantity": 10,
+            "length": 3,
+            "type": "Fiction",
+            "talent": "Axel LATTUADA",
+            "beneficiary": "Première Média",
+            "amount": 10000
+        },
+        {
+            "title": "ASQ",
+            "quantity": 40,
+            "length": 3,
+            "type": "Vlog",
+            "talent": "Phosphore",
+            "beneficiary": "BAYARD PRESSE",
+            "amount": 7000
+        },
+        {
+            "title": "Serial Slasheur",
+            "quantity": 10,
+            "length": 5,
+            "type": "Vlog",
+            "talent": "Clara Griot et Estelle Walton pour Francetv slash",
+            "beneficiary": "CAE CLARAbis",
+            "amount": 10000
+        },
+        {
+            "title": "Et la caravane passe...",
+            "quantity": 10,
+            "length": 5,
+            "type": "Documentaire",
+            "talent": "USUL et COTENTIN",
+            "beneficiary": "FENSCH TOAST",
+            "amount": 10000
+        },
+        {
+            "title": "Quiproquo - Rose Mécanique",
+            "quantity": 20,
+            "length": 1.30,
+            "type": "Fiction",
+            "talent": "Camille Ghanassia",
+            "beneficiary": "ROSE MECANIQUE PRODUCTION",
+            "amount": 20000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Grünt Afrique",
+            "quantity": 6,
+            "length": 25,
+            "type": "Documentaire",
+            "talent": "Grünt",
+            "beneficiary": "Grünt",
+            "amount": 50000
+        },
+        {
+            "title": "L’odyssée d’un croissant parisien",
+            "quantity": 8,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "AlexFrenchGuyCooking",
+            "beneficiary": "Next Originals",
+            "amount": 40000
+        },
+        {
+            "title": "Juliette Tresanini",
+            "quantity": 10,
+            "length": 6,
+            "type": "Fiction",
+            "talent": "Juliette Tresanini ",
+            "beneficiary": "TALENT WEB",
+            "amount": 30000
+        },
+        {
+            "title": "Loopsider",
+            "quantity": 30,
+            "length": 3,
+            "type": "Reportage",
+            "talent": "Loopsider",
+            "beneficiary": "JAG",
+            "amount": 15000
+        },
+        {
+            "title": "Monsieur Phi",
+            "quantity": 10,
+            "length": 15,
+            "type": "Fiction",
+            "talent": "Thibaut Giraud (Monsieur Phi)",
+            "beneficiary": "ÉPhiScience",
+            "amount": 15000
+        }
+    ]
+}
