@@ -1,0 +1,188 @@
+{
+    "date": "2019-04-19",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-19-avril-2019_1036166",
+    "members": [
+        "Barbara ISRAËL",
+        "Salam JAWAD",
+        "Claire LEPROUST",
+        "Ina Mihalache",
+        "Jérémy SAHEL",
+        "Fif TOBOSSI",
+        "Lawrence VALIN (président suppléant)"
+    ],
+    "creation_helps": [
+        {
+            "title": "INApocalypse",
+            "quantity": 6,
+            "length": 6,
+            "type": "Docu-fiction",
+            "talent": "Bolchegeek",
+            "beneficiary": "Fensch Toast",
+            "amount": 25000
+        },
+        {
+            "title": "Deeper Blue saison 2",
+            "quantity": 10,
+            "length": 20,
+            "type": "Documentaire",
+            "talent": "Olbius",
+            "beneficiary": "Albisser Pierre",
+            "amount": 11000
+        },
+        {
+            "title": "Tuyauteries Inavouables, la série",
+            "quantity": 10,
+            "length": 2,
+            "type": "Fiction",
+            "talent": "Enguerran PRIEU",
+            "beneficiary": "Whoosh Films",
+            "amount": 20000
+        },
+        {
+            "title": "La vidéo pour tous",
+            "quantity": 48,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Benjamin LAPIERRE",
+            "beneficiary": "Benjamin LAPIERRE",
+            "amount": 3030
+        },
+        {
+            "title": "Surf Island Family",
+            "quantity": 1,
+            "length": 52,
+            "type": "Documentaire",
+            "talent": "Mathias Joubert X Surf Island Family",
+            "beneficiary": "Partager le sport, pour une société plus juste et responsable",
+            "amount": 20000
+        },
+        {
+            "title": "Incroyables Photographes (épisodes 5 à 13)",
+            "quantity": 9,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Laurent Breillat / Apprendre la Photo",
+            "beneficiary": "LBR Editions",
+            "amount": 3000
+        },
+        {
+            "title": "Bad Cass",
+            "quantity": 1,
+            "length": 13,
+            "type": "Fiction",
+            "talent": "Kevin Payet",
+            "beneficiary": "SoundLife Production",
+            "amount": 20000
+        },
+        {
+            "title": "L'Univers Express - Saison 3",
+            "quantity": 6,
+            "length": 8,
+            "type": "Animation/VR/3D",
+            "talent": "Cyril PLOU",
+            "beneficiary": "Cyril PLOU",
+            "amount": 19000
+        },
+        {
+            "title": "Les Garçons Bleus - 12 portraits",
+            "quantity": 12,
+            "length": 1,
+            "type": "Animation/VR/3D",
+            "talent": "Francisco Bianchi",
+            "beneficiary": "Mood Films Production",
+            "amount": 15000
+        },
+        {
+            "title": "Le Guide Gribouillé de la Guerilla Green",
+            "quantity": 14,
+            "length": 6,
+            "type": "Docu-Fiction",
+            "talent": "Ophélie DAMBLÉ - Ta Mère Nature",
+            "beneficiary": "DAMBLÉ Ophélie",
+            "amount": 10000
+        },
+        {
+            "title": "Gouse Donnelly – Cinéventures",
+            "quantity": 5,
+            "length": 15,
+            "type": "Docu-Fiction",
+            "talent": "Gouse Donnelly",
+            "beneficiary": "Alabama",
+            "amount": 20000
+        },
+        {
+            "title": "CULTURE CLUB",
+            "quantity": 1,
+            "length": 10,
+            "type": "Fiction",
+            "talent": "Charlotte ROBB",
+            "beneficiary": "PURPROD",
+            "amount": 3000
+        },
+        {
+            "title": "12 Rounds",
+            "quantity": 6,
+            "length": 8,
+            "type": "Documentaire",
+            "talent": "Jérémy Denis",
+            "beneficiary": "Vroom",
+            "amount": 15000
+        },
+        {
+            "title": "RecMinute",
+            "quantity": 1,
+            "length": 12,
+            "type": "Fiction",
+            "talent": "Dycosh et Bonjour tristesse",
+            "beneficiary": "Papa Films",
+            "amount": 20000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Les revues du monde",
+            "quantity": 6,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Charlie Danger",
+            "beneficiary": "GEDEON Programmes",
+            "amount": 50000
+        },
+        {
+            "title": "La Débande",
+            "quantity": 5,
+            "length": 5,
+            "type": "Fiction",
+            "talent": "La Débande",
+            "beneficiary": "When We Were Kids Production",
+            "amount": 40000
+        },
+        {
+            "title": "Tales From The Click",
+            "quantity": 9,
+            "length": 15,
+            "type": "Documentaire",
+            "talent": "Jean-Baptiste Toussaint",
+            "beneficiary": "TALENT WEB",
+            "amount": 30000
+        },
+        {
+            "title": "Hardisk : Apprend en analysant !",
+            "quantity": 24,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Hardisk",
+            "beneficiary": "Henri Griesmar",
+            "amount": 30000
+        },
+        {
+            "title": "Linguisticae (renouvellement)",
+            "quantity": 14,
+            "length": 25,
+            "type": "Docu-Fiction",
+            "talent": "Linguisticae",
+            "beneficiary": "Nerd Entertainment System",
+            "amount": 45000
+        }
+    ]
+}
