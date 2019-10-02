@@ -1,0 +1,169 @@
+{
+    "date": "2019-02-21",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-21-fevrier-2019_969312",
+    "members": [
+        "Salam JAWAD (présidente suppléante)",
+        "Margaux Missika",
+        "Josza ANJEMBE",
+        "Ina Mihalache",
+        "Florent BERNARD",
+        "Lawrence VALIN"
+    ],
+    "creation_helps": [
+        {
+            "title": "Deux séries documentaires : SEMI LIBERTE et COMING-OUT",
+            "quantity": 11,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Les Haut-Parleurs : ALADINE ZAIANE et TRESOR N'TOR",
+            "beneficiary": "FABLABCHANNEL",
+            "amount": 20000
+        },
+        {
+            "title": "Articule",
+            "quantity": 10,
+            "length": 15,
+            "type": "Fiction",
+            "talent": "Jean-Baptiste DUSSEAUX",
+            "beneficiary": "Tamara films",
+            "amount": 30000
+        },
+        {
+            "title": "Les Virées",
+            "quantity": 8,
+            "length": 20,
+            "type": "Documentaire",
+            "talent": "Le Fossoyeur de Films",
+            "beneficiary": "Image Mouvement",
+            "amount": 30000
+        },
+        {
+            "title": "Dans la jungle, avec un petit couteau à beurre...",
+            "quantity": 10,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "Anaïs VOLPÉ",
+            "beneficiary": "Anaïs VOLPÉ",
+            "amount": 20000
+        },
+        {
+            "title": "NEXT SAISON 2",
+            "quantity": 10,
+            "length": 25,
+            "type": "Documentaire",
+            "talent": "Clément MONTFORT",
+            "beneficiary": "42 PRODUCTION",
+            "amount": 30000
+        },
+        {
+            "title": "Cher Futur Moi",
+            "quantity": 24,
+            "length": 4,
+            "type": "Documentaire",
+            "talent": "Irvin Anneix",
+            "beneficiary": "Narrative",
+            "amount": 12000
+        },
+        {
+            "title": "Sur le terrain !",
+            "quantity": 3,
+            "length": 26,
+            "type": "Documentaire",
+            "talent": "TOLT (Benjamin MARTINIE)",
+            "beneficiary": "Benjamin MARTINIE",
+            "amount": 15000
+        },
+        {
+            "title": "TRASH DETECTIVES",
+            "quantity": 24,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Delphine Dura - Camille Ghanassia",
+            "beneficiary": "ROSE MECANIQUE PRODUCTION",
+            "amount": 15000
+        },
+        {
+            "title": "Back to Africa - Les nouveaux aventuriers",
+            "quantity": 20,
+            "length": 4,
+            "type": "Documentaire",
+            "talent": "Kadiatou TRAORE",
+            "beneficiary": "Kadiatou TRAORE",
+            "amount": 3000
+        },
+        {
+            "title": "Jean 2 Mahj La Série",
+            "quantity": 6,
+            "length": 15,
+            "type": "Fiction",
+            "talent": "Jean 2 Mahj",
+            "beneficiary": "J2M",
+            "amount": 3000
+        },
+        {
+            "title": "NE PAS PERDRE LE NORD",
+            "quantity": 4,
+            "length": 12,
+            "type": "Documentaire",
+            "talent": "Gear Locker (Alexis et Jérémie Lopez)",
+            "beneficiary": "GEAR LOCKER",
+            "amount": 17000
+        },
+        {
+            "title": "LE GRAND PARI - SAISON 2",
+            "quantity": 6,
+            "length": 15,
+            "type": "Documentaire",
+            "talent": "LE GRAND PARI",
+            "beneficiary": "LGMT",
+            "amount": 15000
+        },
+        {
+            "title": "Badass",
+            "quantity": 10,
+            "length": 15,
+            "type": "Documentaire",
+            "talent": "Les Fanatiques",
+            "beneficiary": "Partizan Films",
+            "amount": 30000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "BRUT",
+            "quantity": 20,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Brut",
+            "beneficiary": "BRUT",
+            "amount": 50000
+        },
+        {
+            "title": "ET TOUT LE MONDE S'EN FOUT Saison 3",
+            "quantity": 20,
+            "length": 4,
+            "type": "Fiction",
+            "talent": "Et Tout le Monde s’en Fout",
+            "beneficiary": "Mia Productions",
+            "amount": 50000
+        },
+        {
+            "title": "GLAMOUZE",
+            "quantity": 10,
+            "length": 4,
+            "type": "Fiction",
+            "talent": "Glamouze",
+            "beneficiary": "Joji Prod",
+            "amount": 30000
+        },
+        {
+            "title": "JULIEN PESTEL 2019",
+            "quantity": 6,
+            "length": 15,
+            "type": "Fiction",
+            "talent": "Julien Pestel",
+            "beneficiary": "Wattson",
+            "amount": 25000
+        }
+    ]
+}
