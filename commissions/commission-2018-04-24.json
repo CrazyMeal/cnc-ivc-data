@@ -1,0 +1,162 @@
+{
+    "date": "2018-04-24",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-24-avril-2018_570218",
+    "members": [
+        "Soufiane Adel",
+        "Josza Anjembe",
+        "Cyprien Iov",
+        "Barbara Israël",
+        "Salam Jawad",
+        "Margaux Missika (présidente suppléante)",
+        "Axelle Tessandier",
+        "Sophie Garric"
+    ],
+    "creation_helps": [
+        {
+            "title": "Polichinelles",
+            "quantity": 6,
+            "length": 3,
+            "type": "fiction",
+            "talent": "Sandra Parra et Armand Robin",
+            "beneficiary": "Melocoton Films",
+            "amount": 25000
+        },
+        {
+            "title": "Yasmina et Rim",
+            "quantity": 10,
+            "length": 10,
+            "type": "fiction",
+            "talent": "Souad Arsane et Inas Chanti",
+            "beneficiary": "Da Prod",
+            "amount": 30000
+        },
+        {
+            "title": "Les derniers",
+            "quantity": 10,
+            "length": 9,
+            "type": "Documentaire",
+            "talent": "Sophie Nahum",
+            "beneficiary": "Sophie Nahum",
+            "amount": 30000
+        },
+        {
+            "title": "Le fantôme de l'opéra",
+            "quantity": 1,
+            "length": 20,
+            "type": "Fiction",
+            "talent": "Jhon Rachid",
+            "beneficiary": "Les Films Pélléas",
+            "amount": 25000
+        },
+        {
+            "title": "L'art de la guerre",
+            "quantity": 3,
+            "length": 7,
+            "type": "Fiction",
+            "talent": "Sophie-Marie Larrouy",
+            "beneficiary": "Sophie-Marie Larrouy",
+            "amount": 30000
+        },
+        {
+            "title": "PD",
+            "quantity": 1,
+            "length": 25,
+            "type": "Fiction",
+            "talent": "Olivier Lallart",
+            "beneficiary": "Olivier Lallart",
+            "amount": 5000
+        },
+        {
+            "title": "Le français dans le monde",
+            "quantity": 6,
+            "length": 12,
+            "type": "Documentaire",
+            "talent": "Dave Sheik",
+            "beneficiary": "Dave Sheik",
+            "amount": 14000
+        },
+        {
+            "title": "Neknomination",
+            "quantity": 4,
+            "length": 13,
+            "type": "Série de fiction",
+            "talent": "Thomas Baronnet et Cyril Leulier (Studio Vrac)",
+            "beneficiary": "Sixtine-Creation",
+            "amount": 30000
+        },
+        {
+            "title": "Remue-Méninges",
+            "quantity": 5,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Le Mock",
+            "beneficiary": "Bridges",
+            "amount": 2000
+        },
+        {
+            "title": "Mon toit à moi",
+            "quantity": 10,
+            "length": 3,
+            "type": "Documentaire",
+            "talent": "L'académie des haut-parleurs",
+            "beneficiary": "Fablabchannel",
+            "amount": 2000
+        },
+        {
+            "title": "Les topos de Lolo",
+            "quantity": 2,
+            "length": 6,
+            "type": "Podcast",
+            "talent": "Eléonore Costes",
+            "beneficiary": "La dame de Cœur",
+            "amount": 2000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "Solange te parle",
+            "quantity": 20,
+            "length": 4,
+            "type": "Chroniques - Fiction",
+            "talent": "Solange te parle",
+            "beneficiary": "Amicale de production",
+            "amount": 50000
+        },
+        {
+            "title": "Thinkerview",
+            "quantity": 10,
+            "length": 5,
+            "type": "Interviews",
+            "talent": "Thinkerview",
+            "beneficiary": "Sans montage ni coupure",
+            "amount": 50000
+        },
+        {
+            "title": "Et tout le monde s'en fout",
+            "quantity": 20,
+            "length": 7,
+            "type": "Chroniques",
+            "talent": "Et tout le monde s'en fout",
+            "beneficiary": "Mia Productions",
+            "amount": 30000
+        },
+        {
+            "title": "Yes vous aime",
+            "quantity": 24,
+            "length": 75,
+            "type": "Faux documentaire",
+            "talent": "Yes vous aime",
+            "beneficiary": "Courte focale production",
+            "amount": 30000
+        },
+        {
+            "title": "Le huitième continent",
+            "quantity": 7,
+            "length": 10,
+            "type": "Chroniques - Fiction",
+            "talent": "Florence Porcel",
+            "beneficiary": "Next Originals",
+            "amount": 25000
+        }
+    ]
+}
