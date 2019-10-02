@@ -1,0 +1,151 @@
+{
+    "date": "2018-06-22",
+    "source": "https://www.cnc.fr/professionnels/aides-et-financements/resultats-commissions/fonds-daide-aux-createurs-video-sur-internet-cnc-talent--resultats-de-la-commission-du-22-juin-2018_834996",
+    "members": [
+        "Soufiane Adel",
+        "Florent Bernard",
+        "Sophie Garric",
+        "Barbara Israël",
+        "Salam Jawad (présidente suppléante)",
+        "Ina Mihalache"
+    ],
+    "creation_helps": [
+        {
+            "title": "God’s School",
+            "quantity": 25,
+            "length": 12,
+            "type": "Fiction animation",
+            "talent": "Gaylord Cuvillier Libessart",
+            "beneficiary": "Gaylord Cuvillier",
+            "amount": 20000
+        },
+        {
+            "title": "Game Next Door – Saison 4",
+            "quantity": 10,
+            "length": 14,
+            "type": "Documentaire",
+            "talent": "Hugo Terra",
+            "beneficiary": "Hugo Terra",
+            "amount": 9245
+        },
+        {
+            "title": "Puzzle",
+            "quantity": 1,
+            "length": 12,
+            "type": "Fiction",
+            "talent": "Nicolas Berno",
+            "beneficiary": "Portrait Robot",
+            "amount": 30000
+        },
+        {
+            "title": "Projet Hermes",
+            "quantity": 25,
+            "length": 20,
+            "type": "Documentaire",
+            "talent": "Arnaud Thiry",
+            "beneficiary": "Arnaud Thiry",
+            "amount": 10000
+        },
+        {
+            "title": "LE BUS",
+            "quantity": 1,
+            "length": 25,
+            "type": "Fiction musicale",
+            "talent": "Jimmy Magardeau",
+            "beneficiary": "Jimmy Magardeau",
+            "amount": 13000
+        },
+        {
+            "title": "Punch !",
+            "quantity": 15,
+            "length": 3,
+            "type": "Jeu musical",
+            "talent": "Sourdoreille Collectif",
+            "beneficiary": "Sourdoreille Production",
+            "amount": 10000
+        },
+        {
+            "title": "J’aime bien ces images – Saison 1",
+            "quantity": 6,
+            "length": 7,
+            "type": "Documentaire",
+            "talent": "Martial Obry",
+            "beneficiary": "Martial Obry",
+            "amount": 3000
+        },
+        {
+            "title": "Les mythes à l'épreuve de l'archéologie",
+            "quantity": 7,
+            "length": 10,
+            "type": "Documentaire",
+            "talent": "Clothilde Chamussy",
+            "beneficiary": "Passé Sauvage",
+            "amount": 10000
+        },
+        {
+            "title": "TECKNONIK MEMORIES (Golden Moustache)",
+            "quantity": 1,
+            "length": 12,
+            "type": "Fiction",
+            "talent": "Golden Moustache",
+            "beneficiary": "GM6",
+            "amount": 10000
+        }
+    ],
+    "channel_helps": [
+        {
+            "title": "CHAINE SHIRLEY SOUAGNON",
+            "quantity": "28 et 2",
+            "length": "3 et 13",
+            "type": "Sketch shows",
+            "talent": "Shirley Souagnon",
+            "beneficiary": "ON TIME PRODCUTIONS",
+            "amount": 50000
+        },
+        {
+            "title": "Swann Périssé",
+            "quantity": 9,
+            "length": 4,
+            "type": "Documentaire",
+            "talent": "Swann Périssé",
+            "beneficiary": "Spriss Productions",
+            "amount": 50000
+        },
+        {
+            "title": "Cyprien",
+            "quantity": 13,
+            "length": 10,
+            "type": "Fiction",
+            "talent": "Cyprien",
+            "beneficiary": "Periple",
+            "amount": 50000
+        },
+        {
+            "title": "Parlons peu mais parlons",
+            "quantity": 10,
+            "length": 6,
+            "type": "Talk Show",
+            "talent": "Juliette Tresanini et Maud Bettina-Marie",
+            "beneficiary": "TALENT WEB",
+            "amount": 25000
+        },
+        {
+            "title": "Sandy L",
+            "quantity": 5,
+            "length": 10,
+            "type": "Fiction",
+            "talent": "Sandy Lobry",
+            "beneficiary": "Les frizés production",
+            "amount": 25000
+        },
+        {
+            "title": "Dirtybiology",
+            "quantity": 12,
+            "length": 12,
+            "type": "Documentaire",
+            "talent": "Léo Grasset",
+            "beneficiary": "Nerd Entertainment System",
+            "amount": 25000
+        }
+    ]
+}
